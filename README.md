@@ -1,2 +1,2 @@
-# nomanitech.github.io
+# suraj.github.io
 Portfolio Project
