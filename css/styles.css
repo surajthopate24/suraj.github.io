@@ -1,10 +1,10 @@
 body {
-  font-family: cursive;
+  font-family: FontAwesome;
   font-size: 16px;
 }
 
 .small-text {
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .down-icon a {
@@ -77,7 +77,7 @@ body {
 }
 
 .first-name {
-    margin-top: 250px;
+    margin-top: 200px;
     color: #fff;
     font-size: 300%;
 }
